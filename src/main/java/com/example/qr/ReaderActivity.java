@@ -9,6 +9,6 @@ public class ReaderActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_reader3);
+        setContentView(R.layout.activity_reader);
     }
 }
